@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pichillilorenzo.flutter_inappwebview_android-release-32:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khade\\.gradle\\caches\\8.14.3\\transforms\\e036bed92af3faf75c8dc389259607d2\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.pichillilorenzo.flutter_inappwebview_android-mergeReleaseResources-30:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khade\\.gradle\\caches\\8.14.3\\transforms\\e036bed92af3faf75c8dc389259607d2\\transformed\\appcompat-1.6.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
