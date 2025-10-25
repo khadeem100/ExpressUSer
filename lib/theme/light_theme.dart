@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 
 ThemeData light = ThemeData(
   useMaterial3: false,
-  fontFamily: 'Roboto',
-  primaryColor: const Color(0xFF4153B3),
+  fontFamily: 'SourceSans3',
+  primaryColor: const Color(0xFF00687a),
   primaryColorLight: const Color(0xFFECEDF7),
-  primaryColorDark: const Color(0xff34428F),
+  primaryColorDark: const Color(0xff00687a),
   secondaryHeaderColor: const Color(0xFF758493),
 
   disabledColor: const Color(0xFF8797AB),
@@ -24,7 +24,7 @@ ThemeData light = ThemeData(
   ],
 
   colorScheme: const ColorScheme.light(
-    primary: Color(0xFF4153B3),
+    primary: Color(0xFF00687a),
     secondary: Color(0xFFFF9900),
     onSecondary: Color(0xFFffda6d),
     tertiary: Color(0xFFd35221),

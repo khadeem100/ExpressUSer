@@ -1,7 +1,7 @@
 name: demandium
 description: A new Flutter application.
 publish_to: 'none' #
-version: 1.0.9+2
+version: 1.1.0+3
 
 environment:
   sdk: ^3.8.1
@@ -111,3 +111,5 @@ flutter:
           weight: 500
         - asset: assets/font/Roboto-Bold.ttf
           weight: 700
+        - asset: assets/font/SourceSans3-light.ttf
+          weight: 300

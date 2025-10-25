@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 var robotoLight = TextStyle(
-  fontFamily: 'Roboto',
+  fontFamily: 'SourceSans3',
   fontWeight: FontWeight.w300,
   fontSize: Dimensions.fontSizeSmall,
   height: 1.5
@@ -12,22 +12,22 @@ var robotoLight = TextStyle(
 
 
 const robotoRegular = TextStyle(
-  fontFamily: 'Roboto',
+  fontFamily: 'SourceSans3',
   fontWeight: FontWeight.w400,
 );
 
 const robotoMedium = TextStyle(
-  fontFamily: 'Roboto',
+  fontFamily: 'SourceSans3',
   fontWeight: FontWeight.w500,
 );
 
 const robotoSemiBold = TextStyle(
-  fontFamily: 'Roboto',
+  fontFamily: 'SourceSans3',
   fontWeight: FontWeight.w600,
 );
 
 const robotoBold = TextStyle(
-  fontFamily: 'Roboto',
+  fontFamily: 'SourceSans3',
   fontWeight: FontWeight.w700,
 );
 
